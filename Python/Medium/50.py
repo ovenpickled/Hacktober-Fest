@@ -1,8 +1,8 @@
 def increment_example():
     x = 10
     
-    
-    y = x++
+    y=5
+    x +=y
     
     
     print("The value of y is:", y)
@@ -14,7 +14,8 @@ increment_example()
 
 
 a = 7
-b = a++
+b = 10
+a += b
 
 
 print("The value of b is:", b)
