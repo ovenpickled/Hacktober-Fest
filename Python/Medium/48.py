@@ -1,5 +1,5 @@
 class A:
-    def method(): 
+    def method(x): 
         print("Hello")
 
 a = A()
