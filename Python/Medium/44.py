@@ -1,5 +1,5 @@
 def calculate_sum():
-    sum = 0
+    sm = 0
     
     
     numbers = [1, 2, 3, 4]
