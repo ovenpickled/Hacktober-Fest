@@ -21,5 +21,5 @@ def my_function():
     elif x == 10:
         print("x is equal")
 
-del my_function() 
+my_function() 
 
